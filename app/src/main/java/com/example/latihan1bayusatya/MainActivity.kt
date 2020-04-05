@@ -6,6 +6,8 @@ import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
 
 
+
+
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -18,3 +20,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+/*
+ 5 april 2020 mengerjakan layout berserta coding 10117127-BayuSatyaPratama-IF4
+
+ */
