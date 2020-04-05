@@ -22,6 +22,8 @@ class MainActivity : AppCompatActivity() {
 }
 
 /*
- 5 april 2020 mengerjakan layout berserta coding 10117127-BayuSatyaPratama-IF4
-
+ 5 april 2020 mengerjakan layout berserta coding
+ 10117127
+ BayuSatyaPratama
+ IF4
  */
